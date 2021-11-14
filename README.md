@@ -1,2 +1,2 @@
 # MobileProject
-<img width="1440" alt="Screen Shot 2021-02-11 at 11 40 30 AM" src="https://github.com/NazarSeyitbekov/MobileProject/blob/main/nazar.gif">
+<img width="740" alt="Screen Shot 2021-02-11 at 11 40 30 AM" src="https://github.com/NazarSeyitbekov/MobileProject/blob/main/nazar.gif">
